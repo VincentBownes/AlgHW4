@@ -1,0 +1,20 @@
+N     // Directed
+N     // Weighted
+5    // Number of Verticies
+1    // Degree of vertex 1
+2
+3    // Degree of vertex 2
+1
+3
+5
+3    // Degree of vertex 3
+2
+4
+5
+2    // Degree of vertex 4
+3
+5
+3    // Degree of vertex 5
+2
+3
+4
